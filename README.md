@@ -5,7 +5,14 @@ https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-k
 
 **The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign, Design Theory, Branding, Logo Design**
 
-**Day 1:**
+**The Anatomy of Typography**
+
+![image](/Images/TheAnatomyofTypography-Poster.jpg)
+
+**Common Terms in Graphic Design**
+
+- Kerning: The Space between letters and characters
+- Leading: The space between paragraphs or sentences
 
 **What is Graphic Design?**
 
