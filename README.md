@@ -4,15 +4,6 @@
 
 **This Repository Covers Photoshop, Illustrator, InDesign, Design Theory, Branding & Logo Design**
 
-**The Anatomy of Typography**
-
-![image](/Images/TheAnatomyofTypography.jpg)
-
-**Common Terms in Graphic Design**
-
-- Kerning: The Space between letters and characters
-- Leading: The space between paragraphs or sentences
-
 **What is Graphic Design?**
 
 - Graphic design is the art of Communication through the use of **typography | photos | color | layout**
@@ -50,3 +41,32 @@
 **Become a better Designer:**
 
 - Try a logo a day challenge [dailylogochallenge.com](http://dailylogochallenge.com)
+
+**The Anatomy of Typography**
+
+![image](/Images/TheAnatomyofTypography.jpg)
+
+**Common Terms in Graphic Design**
+
+- Kerning: The Space between letters and characters
+- Leading: The space between paragraphs or sentences
+
+**Different Type Styles:**
+
+1. Serif: serifs have tails, serifs help when there’s a large amount of text but smaller, the serifs help the reader distinguish the letters much easier
+2. Sans-Serif: Make solid clean headlines and help them to stand out
+3. script fonts: The help add a more natural look, they can easily overwhelm a design piece if you use too many
+4. font mixing: is a great way to enhance a design
+5. <b>Font weight:</b> Thin, light, medium, <b>bold</b>, <b>HEAVY</b>
+   1. Railway is a great font with many different weight options
+   2. Helvetica has a wide variety of weights, Helvetica is used a lot in design
+   3. Gill Sans is another great example
+6. Using two different weights in the same font family pair very well together in designs and provide a balance to your typography
+7. Spacing:
+   1. Can make all the difference in a design and really make a design stand out, but too much space can be a problem especially for lowercase letters, they don’t handle dramatic spacing well.
+   2. The opposite is true for Uppercase letters, They remain strong and easy to read, it works wonders for ALL CAPS.
+   3. Do not use wide spacing with script fonts
+8. _Italics:_ When there is a lot of text in a particular space, italics help to _highlight_ a _keyword_ or phrase.
+9. ALL CAPS vs lowercase: balance is key, find ways to mix up your typography usage by using a wonderful combination serif and sans serif fonts together using a mix of capitol and lower case, this ensures your design is unique and diverse.
+
+![image](/Images/Font-Styles-Guide.jpg)
