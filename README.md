@@ -6,7 +6,7 @@
 
 **The Anatomy of Typography**
 
-![image](/Images/TheAnatomyofTypography-Poster.jpg)
+![image](/Images/TheAnatomyofTypography.jpg)
 
 **Common Terms in Graphic Design**
 
