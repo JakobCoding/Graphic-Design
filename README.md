@@ -1,9 +1,8 @@
 # Graphic Design Masterclass-Learn Great Design
 
 ![image](/Images/Banner.jpg)
-https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-know/
 
-**The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign, Design Theory, Branding, Logo Design**
+**This Repository Covers Photoshop, Illustrator, InDesign, Design Theory, Branding & Logo Design**
 
 **The Anatomy of Typography**
 
