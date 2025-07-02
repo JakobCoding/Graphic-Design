@@ -70,3 +70,37 @@
 9. ALL CAPS vs lowercase: balance is key, find ways to mix up your typography usage by using a wonderful combination serif and sans serif fonts together using a mix of capitol and lower case, this ensures your design is unique and diverse.
 
 ![image](/Images/Font-Styles-Guide.jpg)
+
+**Type Styles:** A Detailed Overview - Serifs
+
+- its good practice to have a special list of 20 - 30 of your favorite fonts that you can use on projects.
+- This helps to remain consistent but helps picking fonts out for the next project a lot easier.
+
+**Serifs:** There a lot of good choices
+
+- Times new Roman is the default serif font
+- Didot , Baskerville, Garamond are all great choices too.
+
+**How to know when to use which font in a particular project?**
+
+**Old Style fonts:** Easy to read used in the past for book printing
+
+- Garamond , Berkely, Minion, Palatino
+
+**Transitional Fonts:** In between old style & modern fonts
+
+- Bodoni - (canvas default font selection) Highly stylized and commonly used in high end fashion brands
+- Didot - A lot of major brands use didot as their typeface of choice - such as vogue and CBS
+
+**Consider picking a modern serif or Didone font** when working with high end clients.
+
+- The thin lines add an elegance that’s hard to achieve with an old style font
+- There is high contrast between the thickness and thinness of the lines, you can put more dramatic spacing between characters, to create a dramatic effect.
+- They can also be good for dramatic poster headlines with simple solid backgrounds.
+
+**Slab Serifs:**
+
+- Originally designed to demand peoples attention, thick bold lines with almost zero contrast. **Chunky thick and bold, they certainly grabbed our attention throughout the years.**
+- They used slab serifs on **Wanted Posters** back in the old west to make sure you **took notice!**
+- Designers use slab serifs for the same reason. A great way to grab someone’s attention, Political statements for example
+- **Rockwell , Archer & Archer Pro** and good options and are commonly used in design projects.
